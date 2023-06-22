@@ -1,0 +1,18 @@
+.wrapper {
+    display: flex;
+justify-content: space-between;
+color: aliceblue;
+}
+
+#div1 {
+    background-color: rgb(213, 196, 255);
+    padding: spx;
+}
+#div2 {
+    background-color: brown;
+    padding: spx;
+}
+#div3 {
+    background-color:black;
+    padding: spx;
+}

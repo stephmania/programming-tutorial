@@ -1,0 +1,33 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 500;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.header-wrapper>h2 {
+    background-color: aqua;
+}
+.sub-topic{
+    font-size: 16px;
+    color: blue;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sub-wrapper{
+    background-color: darkgray;
+}
+ol li {
+    background-color: azure;
+    color: black;
+    margin: 5px;
+}
+ul li {
+    background-color: bisque;
+    color: blue;
+    margin: 5px;
+}
